@@ -1,6 +1,6 @@
 {
     "name": "DOIO",
-    "vendorId": "0xFEED",
+    "vendorId": "FEED",
     "productId": "0x6060",
     "lighting": "qmk_rgblight",
     "matrix": { "rows": 4, "cols": 8 },

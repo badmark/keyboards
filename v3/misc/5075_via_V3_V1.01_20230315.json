@@ -1,7 +1,7 @@
 {
-    "name": "AKKO Keyboard",
-    "vendorId": "0xFFFE",
-    "productId": "0x000B",
+    "name": "AKKO 5075S Keyboard",
+    "vendorId": "FFFE",
+    "productId": "000B",
     "keycodes": ["qmk_lighting"],
     "menus": [
       {
